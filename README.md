@@ -1,24 +1,24 @@
-\# Fake News Detector – ImagineHack 2026
+# Fake News Detector – ImagineHack 2026
 
 
 
-\## Overview
+## Overview
 
 A web-based tool that detects fake news in Malaysia, built during \*\*ImagineHack Hackathon 2026\*\*.
 
 
 
-\*\*My Role:\*\* Frontend Designer \& Developer
+**My Role**: Frontend Designer \& Developer
 
 
 
-\## Problem Statement
+## Problem Statement
 
 Malaysia faces significant challenges with misinformation spreading rapidly across social media and messaging apps. This tool empowers users to verify news before sharing.
 
 
 
-\## Tech Stack (My Contribution)
+## Tech Stack (My Contribution)
 
 
 
@@ -34,7 +34,7 @@ Malaysia faces significant challenges with misinformation spreading rapidly acro
 
 
 
-\## Features
+## Features
 
 \- Clean, intuitive UI for submitting news articles/text
 
@@ -46,7 +46,7 @@ Malaysia faces significant challenges with misinformation spreading rapidly acro
 
 
 
-\## How It Works
+## How It Works
 
 1\. User inputs news article text or URL
 
@@ -56,7 +56,7 @@ Malaysia faces significant challenges with misinformation spreading rapidly acro
 
 
 
-\## What I Learned
+## What I Learned
 
 \- Rapid prototyping under hackathon time constraints
 
@@ -68,7 +68,7 @@ Malaysia faces significant challenges with misinformation spreading rapidly acro
 
 
 
-\## Future Improvements
+## Future Improvements
 
 \- Enhanced mobile responsiveness
 
@@ -78,7 +78,7 @@ Malaysia faces significant challenges with misinformation spreading rapidly acro
 
 
 
-\## Files
+## Files
 
 \- `/src` – Frontend source code
 
