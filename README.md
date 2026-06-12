@@ -76,5 +76,5 @@ Malaysia faces significant challenges with misinformation spreading rapidly acro
 
 ## Files
 
-- `/src` – Frontend source code
+- [src] – Frontend source code
 
