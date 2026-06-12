@@ -76,5 +76,5 @@ Malaysia faces significant challenges with misinformation spreading rapidly acro
 
 ## Files
 
-- [src] – Frontend source code
+- [src](https://github.com/baw4menna/fake-news-detector/tree/master/src) – Frontend source code
 
